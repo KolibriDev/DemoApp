@@ -18,3 +18,5 @@ C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.dll.mdb
 C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.dll.mdb
 C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.dll.mdb
 C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.dll.mdb
+C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp\obj\Debug\DemoApp.dll.mdb
+C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp\bin\Debug\DemoApp.dll.mdb
