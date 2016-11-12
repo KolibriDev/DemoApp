@@ -13,7 +13,11 @@ namespace DemoApp
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MainPage()) { BarBackgroundColor = Color.Aqua };
+            MainPage = new NavigationPage(new MainPage())
+                           {
+                               BarBackgroundColor = Color.Red,
+                               BarTextColor = Color.White
+                           };
         }
 
         protected override void OnStart()

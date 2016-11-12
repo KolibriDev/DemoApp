@@ -4,6 +4,7 @@
              x:Class="DemoApp.NextPage"
              Title="Next page">
   <Label Text="This is the next page!"
-		   VerticalOptions="Center"
-		   HorizontalOptions="Center" />
+         FontSize="Large"
+         VerticalOptions="Center"
+         HorizontalOptions="Center" />
 </ContentPage>

@@ -7,12 +7,12 @@
 
   <StackLayout>
 		<Label Text="Welcome to Xamarin Forms!"
-			   VerticalOptions="CenterAndExpand"
-			   HorizontalOptions="Center" />
+           FontSize="Large"
+           VerticalOptions="CenterAndExpand"
+           HorizontalOptions="Center" />
 		<Button Text="To next page"
 		        VerticalOptions="EndAndExpand"
 		        HorizontalOptions="Center"	
-				Clicked="Handle_Clicked" />
+				    Clicked="Handle_Clicked" />
 	</StackLayout>
-
 </ContentPage>
