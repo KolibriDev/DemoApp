@@ -1,2 +1,0 @@
-C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp.UWP\DemoApp.UWP.csproj;x86
-C:\Users\Hrafn\git\DemoApp\DemoApp\DemoApp\DemoApp.csproj;neutral
